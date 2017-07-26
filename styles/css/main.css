@@ -1,0 +1,17 @@
+* {
+  color: black;
+}
+
+#black-bar {
+  height: 40px;
+  width: 100vw;
+  background-color: black;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+body {
+  margin: 0;
+}
